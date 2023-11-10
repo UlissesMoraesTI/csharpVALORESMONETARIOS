@@ -1,0 +1,14 @@
+C:\dio\ValoresMonetarios\bin\Debug\net7.0\ValoresMonetarios.exe
+C:\dio\ValoresMonetarios\bin\Debug\net7.0\ValoresMonetarios.deps.json
+C:\dio\ValoresMonetarios\bin\Debug\net7.0\ValoresMonetarios.runtimeconfig.json
+C:\dio\ValoresMonetarios\bin\Debug\net7.0\ValoresMonetarios.dll
+C:\dio\ValoresMonetarios\bin\Debug\net7.0\ValoresMonetarios.pdb
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.AssemblyInfoInputs.cache
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.AssemblyInfo.cs
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.csproj.CoreCompileInputs.cache
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.dll
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\refint\ValoresMonetarios.dll
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.pdb
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ValoresMonetarios.genruntimeconfig.cache
+C:\dio\ValoresMonetarios\obj\Debug\net7.0\ref\ValoresMonetarios.dll
